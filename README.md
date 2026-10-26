@@ -17,3 +17,4 @@ Domain-neutral OWL 2 ontology for assertions, propositions, evidence, provenance
 - Ontology IRI: `https://w3id.org/truth-metric`
 - Term namespace: `https://w3id.org/truth-metric#`
   GitHub Pages publication for the Truth Metric Ontology.
+GitHub Pages deployment enabled.
