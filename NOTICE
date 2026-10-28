@@ -1,0 +1,23 @@
+Truth Metric Ontology (TMO)
+Copyright 2026 Jamie Kinney
+
+This product includes software developed for the Truth Metric Ontology (TMO),
+including reference validation code, continuous-integration scripts, and related
+software components.
+
+Software portions designated as Apache-2.0 are licensed under the Apache
+License, Version 2.0. A copy of that license should be provided in the
+repository's applicable software license file.
+
+Ontology, vocabulary, semantic specifications, SHACL shapes, examples, and
+documentation may be subject to a separate content license as identified in the
+repository's license files and individual file notices.
+
+Project namespace:
+https://w3id.org/truth-metric/
+
+Project repository:
+https://github.com/Jkhcw16-arch/truth-metric-ontology
+
+This NOTICE identifies attribution and licensing context. It does not modify or
+replace the terms of any applicable license.
